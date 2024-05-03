@@ -1,0 +1,7 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingComments": "always",
+  "workbench.editor.closeOnFileDelete": false,
+  "html.completion.attributeDefaultValue": "doublequotes",
+  "html-to-css-autocompletion.autocompletionFilesScope": "workspace"
+}
